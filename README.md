@@ -1,1 +1,4 @@
-## Aleksandar Kostov all challenges and exercises of FullStuck-WebDevelopment
+## Aleksandar Kostov 
+
+
+Simple Quiz using JQuery and Ajax 
